@@ -1,0 +1,3 @@
+Cuota: el elemento 1 tiene una cuota de participación en los beneficios y gastos del 34%
+Cuota: el elemento 2 tiene una cuota de participación en los beneficios y gastos del 24%
+
