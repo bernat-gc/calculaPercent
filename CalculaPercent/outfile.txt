@@ -1,10 +1,1 @@
-Supeficie total: 455
-
-Elemento 1 con superficie: 55 le equivale un porcentaje 12.09%
-Elemento 2 con superficie: 50 le equivale un porcentaje 10.99%
-Elemento 3 con superficie: 50 le equivale un porcentaje 10.99%
-Elemento 4 con superficie: 25 le equivale un porcentaje 5.5%
-Elemento 5 con superficie: 75 le equivale un porcentaje 16.48%
-Elemento 6 con superficie: 60 le equivale un porcentaje 13.18%
-Elemento 7 con superficie: 40 le equivale un porcentaje 8.8%
-Elemento 8 con superficie: 100 le equivale un porcentaje 21.97%
+Cuota: el elemento 1 tiene una cuota de participación en los beneficios y gastos del 100%.

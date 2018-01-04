@@ -1,4 +1,4 @@
 ﻿  CalculaPercent.cpp
-c:\users\anna sanz rubiralta\source\repos\calculapercent\calculapercent\calculapercent.cpp(157): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
-c:\users\anna sanz rubiralta\source\repos\calculapercent\calculapercent\calculapercent.cpp(177): warning C4018: '<': no coinciden signed/unsigned
+c:\users\anna sanz rubiralta\source\repos\calculapercent\calculapercent\calculapercent.cpp(137): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\anna sanz rubiralta\source\repos\calculapercent\calculapercent\calculapercent.cpp(157): warning C4018: '<': no coinciden signed/unsigned
   CalculaPercent.vcxproj -> C:\Users\Anna Sanz Rubiralta\source\repos\CalculaPercent\Debug\CalculaPercent.exe
